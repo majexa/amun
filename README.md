@@ -14,7 +14,7 @@ Create file structure like that
     
 Get server from asdasdsa
 
-    git clone asdasd server
+    git clone https://github.com/majexa/amun-static-server.git server
     cd server
     npm install
     
