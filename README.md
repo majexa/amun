@@ -12,7 +12,7 @@ Create file structure like that
     build/public/some/static/stuff
     build/public/index.html
     
-Get server from asdasdsa
+Download server
 
     git clone https://github.com/majexa/amun-static-server.git server
     cd server
