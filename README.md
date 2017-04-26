@@ -7,7 +7,7 @@ Create project folder
     mkdir project
     cd project
     
-Create file structure like that
+Create file structure inside project folder like that
 
     build/public/some/static/stuff
     build/public/index.html
@@ -26,7 +26,7 @@ At the final your project file structure will be looks like:
     project/server/package.jeon
     project/server/...
     
-Create `.env` with contents like:
+Create `project/server/.env` with contents like:
 
     PORT = 8080    
     
