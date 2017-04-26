@@ -33,3 +33,7 @@ Create `project/server/.env` with contents like:
 Run the server:
 
     node project/server/index.js
+
+Or run it by single command with port specified
+
+    PORT=8088 node index.js
