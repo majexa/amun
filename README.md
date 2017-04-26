@@ -1,6 +1,6 @@
-#Amun Static Server
+# Amun Static Server
 
-##Installation
+## Installation
 
 Create project folder
 
@@ -19,6 +19,7 @@ Get server from asdasdsa
     npm install
     
 At the final your project file structure will be looks like:
+
     project/build/public/index.html
     project/build/public/...
     project/server/index.js
@@ -27,8 +28,7 @@ At the final your project file structure will be looks like:
     
 Create `.env` with contents like:
 
-    PORT = 8080
-    
+    PORT = 8080    
     
 Run the server:
 
